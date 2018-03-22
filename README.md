@@ -1,6 +1,5 @@
 # KargoTakip
-
-C#, MSSQL, DevExpress Kullanılarak Geliştirilmiş Kargo Takip Yazılımı</br>
+<font face="Arial" color="red" size="20">C#, MSSQL, DevExpress Kullanılarak Geliştirilmiş Kargo Takip Yazılımı</br></font>
 <h3><center>Program Hakkında</center></h3></br>
 <h3><center>Yönetici Paneli</center></h3>
 <ul>
