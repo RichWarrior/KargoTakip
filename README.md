@@ -1,5 +1,6 @@
 # KargoTakip
 C#, MSSQL, DevExpress Kullanılarak Geliştirilmiş Kargo Takip Yazılımı</br>
+<a href="https://mega.nz/#!BQ0EgLSD!bDqlnrYhASfGz6I2PizxLx1laIXtv4-465Fq9WIfp68">İndirmek İçin Tıkla</a>
 <h3><center>Program Hakkında</center></h3></br>
 <h3><center>Yönetici Paneli</center></h3>
 <ul>
