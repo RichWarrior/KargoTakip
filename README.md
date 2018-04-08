@@ -1,7 +1,7 @@
 # KargoTakip
 C#, MSSQL, DevExpress Kullanılarak Geliştirilmiş Kargo Takip Yazılımı</br>
 <a href="https://mega.nz/#!BQ0EgLSD!bDqlnrYhASfGz6I2PizxLx1laIXtv4-465Fq9WIfp68">İndirmek İçin Tıkla Version 1.0</a>
-<a href="https://mega.nz/#!RJNTEaZL!JXVS6w2BxBigCR-h-Ru8mUyDOjZTktjXm7OVkKf2UBA"> Version 1.1</a>
+<a href="https://mega.nz/#!RJNTEaZL!JXVS6w2BxBigCR-h-Ru8mUyDOjZTktjXm7OVkKf2UBA"></br> Version 1.1</a>
 <h3><center>Program Hakkında</center></h3></br>
 <h3><center>Yönetici Paneli</center></h3>
 <ul>
@@ -26,4 +26,4 @@ C#, MSSQL, DevExpress Kullanılarak Geliştirilmiş Kargo Takip Yazılımı</br>
   <li>Siparişlerin Çıktısını Alma</li>
   </ul>
   
-  <h3>Version 1.1 İle Güvenlik Açıkları Bazı Buglar Onarıldı! Async-Task-Await Kavramları Getiirldi!</h3>
+  <h3>Version 1.1 İle Güvenlik Açıkları Bazı Buglar Onarıldı! Async-Task-Await Kavramları Getirildi!</h3>
